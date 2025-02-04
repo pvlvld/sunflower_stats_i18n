@@ -88,7 +88,7 @@ unknown = невідомо
 
 user-not-found = ❌ Користувача не знайдено.
 
-active-del-success = ✅ Успішно видалено {name} з активу та приховано зі статистики.
+active-del-success = ✅ Успішно видалено {$name} з активу та приховано зі статистики.
 
 nick-del-success = ✅ Нікнейм видалено.
 # MENUS
