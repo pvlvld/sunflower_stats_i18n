@@ -92,6 +92,8 @@ user-not-found = ❌ Користувача не знайдено.
 active-del-success = ✅ Успішно видалено {$name} з активу та приховано зі статистики.
 
 nick-del-success = ✅ Нікнейм видалено.
+
+only_private_cmd = Ця команда працює лише в <a href="https://t.me/soniashnyk_statistics_bot">особистих повідомленнях з ботом.</a>
 # MENUS
 
 # ETC
