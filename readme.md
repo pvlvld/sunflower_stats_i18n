@@ -39,3 +39,9 @@ Here you can fix existing translations or add a new language via a pull request.
 ### Alternative Submission
 If this process is difficult for you, you can send a fully translated file directly via [Telegram](https://t.me/pvlvld).
 
+---
+
+## TODO:
+- Finish main (Ukrainian) locale.
+- Finish English locale.
+- Create action to check for missed phrases in other translations relative to the Ukrainian one.
