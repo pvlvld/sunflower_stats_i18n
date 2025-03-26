@@ -11,7 +11,7 @@ Here you can fix existing translations or add a new language via a pull request.
 - **Polish** – Looking for a translator
 
 ### Translation Details
-- Total phrases: **100**
+- Total phrases: ~**100**
 - Format: **Fluent Markup Language (FTL)**
 
 ---
