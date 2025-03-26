@@ -21,7 +21,7 @@ Here you can fix existing translations or add a new language via a pull request.
 1. **Fork** this repository.
 2. **Clone** your fork:
    ```sh
-   git clone https://github.com/your-username/sunflower-locales.git
+   git clone https://github.com/pvlvld/sunflower_stats_i18n.git
    ```
 3. **Create a new branch** for your changes:
    ```sh
