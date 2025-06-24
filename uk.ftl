@@ -132,6 +132,21 @@ nick-set-success = ✅ Успішно встановлено нікнейм: {$n
 stats-empty-date = Схоже, що статистики за цю дату немає.
 
 stats-date-help = Команда має мати такий формат:\n"стата 2025.04.13" або "/stats 2025.04.01 2025.04.14"
+
+stats-chat-period = 📊 Статистика{$title} за {$period}
+
+stats-total-amount = Загальна кількість
+
+# "today" | "yesterday" | "weekRange" | "monthRange" | "yearRange" | "all"
+# stats-chat-period -> period <-
+# Статистика чату за сьогодні / вчора / весь час / ...
+stats-period-today = сьогодні
+stats-period-yesterday = вчора
+stats-period-weekRange = тиждень
+stats-period-monthRange = місяць
+stats-period-yearRange = рік
+stats-period-all = весь час
+
 # MENUS
 
 # ETC
