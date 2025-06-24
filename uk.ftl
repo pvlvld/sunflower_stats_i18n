@@ -138,7 +138,7 @@ stats-chat-period = 📊 Статистика{$title} за {$period}
 stats-total-amount = Загальна кількість
 
 # "today" | "yesterday" | "weekRange" | "monthRange" | "yearRange" | "all"
-# stats-chat-period -> period <-
+# stats-chat-period -> $period <-
 # Статистика чату за сьогодні / вчора / весь час / ...
 stats-period-today = сьогодні
 stats-period-yesterday = вчора
