@@ -147,6 +147,26 @@ stats-period-monthRange = місяць
 stats-period-yearRange = рік
 stats-period-all = весь час
 
+stats-user-top-chats = Особистий топ чатів{$name}
+
+    <blockquote>{$top}</blockquote>
+
+    Загалом: {$totalMessages} повідомлень.
+
+first-user-message = Схоже, що це ваше перше повідомлення в цьому чаті 🎉
+
+robot-sounds = 🤖 біп-буп
+
+stats-user-message = Статистика{$name}
+
+    - за день: {$today}
+    - за тиждень: {$week}
+    - за місяць: {$month}
+    - за рік: {$year}
+    - за весь час: {$total}
+
+    📅 Перше повідомлення: {$firstSeen}
+
 # MENUS
 
 # ETC
