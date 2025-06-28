@@ -189,6 +189,13 @@ history-scan-dont-needed = Немає потреби в скануванні.
     Дата першого запису статистики чату збігається з датою першого повідомлення в чаті.
 
 
+### CHAT CLEANING ###
+
+chat-cleanup-usage = Приклад використання:\n!чистка 7 100\n7 - кількість днів, 100 - мінімальна кількість повідомлень за цей час.
+chat-cleanup-already-running = В чаті вже запущено чистку. Відмініть її або спробуйте пізніше.
+chat-cleanup-nothing-found = За вказаними параметрами знайдено 0 учасників.
+chat-cleanup-text = Знайдено {$targetMembersCount} учасників, котрі за останні {$targetDaysCount} днів написали менше {$targetMessagesCount} повідомлень.
+
 
 ### BUTTONS misc ###
 
