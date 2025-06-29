@@ -6,29 +6,28 @@ change-locale = Aby zmienić język, kliknij jeden z przycisków poniżej.
     
     Aktualnie wybrany: {$language}
 
-start = 🌻 Sunflower Stats – najwygodniejszy sposób na śledzenie aktywności Twojego czatu!
+start = 🌻 Sunflower | Stats – najwygodniejszy sposób na śledzenie aktywności Twojego czatu!
 
     🔍 Co potrafi bot?
 
-    📊 Wyświetla Statystyka za dzień, tydzień, miesiąc lub dowolny okres.
-    🎨 Generuje unikalne wykresy statystyk z własnymi tłami i kolorami.
-    🧹 Narzędzia do zarządzania aktywnością członków.
-    ⚙️ Możliwość ograniczenia komend statystyk, wyłączenia linków do kont, itp.
-    🌟 Unikalna funkcja: personalizuj tło wykresów dla siebie i czatu własnymi obrazami!
+    📊 Wyświetlać statystykę za dzień, tydzień, miesiąc lub dowolny okres.
+    🎨 Generować unikalne wykresy statystyk z własnymi tłami i kolorami.
+    🧹 Są w nim narzędzia do zarządzania aktywnością członków.
+    ⚙️ Istnieje możliwość ograniczenia komend statystyk, wyłączenia linków do kont, itp.
+    🌟 Ma też unikalną funkcję: personalizacja tła wykresów dla siebie i czatu własnymi obrazami!
 
-    Dodaj bota, sprawdź aktywność i uczyń swój czat jeszcze ciekawszym! 💬
     👉 Dowiedz się więcej: soniashnyk.t.me
 
-help = 🌻Sunflower Stats.
-    <b>Sprawdź Statystyka i aktywność na swoim czacie:</b>
+help = 🌻Sunflower | Stats.
+    <b>Sprawdź statystykę i aktywność na swoim czacie:</b>
 
-    📊 <b>stats | /stats</b>: Statystyka za wczoraj, dzień, tydzień, miesiąc, rok, według daty (np. <code>/stats 2024.01.01</code> lub <code>/stats 2024.01.01 2024.06.01</code>).
+    📊 <b>stats | /stats</b>: Statystyka za wczoraj, dzień, tydzień, miesiąc, rok, na datę (np. <code>/stats 2024.01.01</code> lub <code>/stats 2024.01.01 2024.06.01</code>).
 
-    📈 <b>/i</b>: zobacz swoje Statystyka.
+    📈 <b>/i</b>: zobacz swoją statystykę.
 
-    📈 <b>/i</b>: zobacz swój osobisty ranking czatów i Statystyka (w prywatnej rozmowie z botem).
+    📈 <b>/i</b>: zobacz swój osobisty ranking czatów i statystykę (w prywatnej rozmowie z botem).
 
-    📈 <b>/you</b>: zobacz Statystyka innego użytkownika (po nazwie, nicku lub w odpowiedzi).
+    📈 <b>/you</b>: zobacz statystykę innego użytkownika (po imieniu, nicku lub w odpowiedzi).
 
     📉 <b>/inactive X</b>: zobacz stronę aktywności czatu od najstarszych (zamień X na numer strony).
 
@@ -42,11 +41,11 @@ help = 🌻Sunflower Stats.
 
     🧹 <b>!cleanup X Y</b>: Np. !cleanup 7 100 — co najmniej 100 wiadomości w ostatnich 7 dniach.
 
-    🛏 <b>!rest</b>: chroń osobę przed czyszczeniem (po nazwie, nicku lub w odpowiedzi).
+    🛏 <b>!rest</b>: chroń osobę przed czyszczeniem (po imieniu, nicku lub w odpowiedzi).
 
-    🫣 <b>!hide</b>: ukryj osobę ze statystyk / zresetuj datę pierwszego pojawienia się (po nazwie, nicku lub w odpowiedzi).
+    🫣 <b>!hide</b>: ukryj osobę ze statystyk / zresetuj datę pierwszego pojawienia się (po imieniu, nicku lub w odpowiedzi).
 
-    💸 <b>/refreshDonate</b>: Odśwież swój status darczyńcy lub czatu.
+    💸 <b>/refreshDonate</b>: Odśwież status wspierającego (swój lub czatu).
 
     ⚙️ <b>/settings</b>: Ustawienia czatu.
 
@@ -57,8 +56,8 @@ help = 🌻Sunflower Stats.
 donate-private = <u>Osobisty</u> premium!
 
     Za wsparcie 15 UAH lub więcej otrzymujesz:
-    - Ustaw GIF jako tło wykresu statystyk
-    - Zmień kolory wykresu i czcionki w swoich statystykach
+    - Ustawienie GIF jako tło wykresu statystyk
+    - Zmiana kolorów wykresu i czcionki w swoich statystykach
 
     Aby uzyskać premium dla czatu, użyj tej komendy bezpośrednio na czacie.
     Po wsparciu użyj /refreshDonate, jeśli status wspierającego nie został przyznany.
@@ -67,8 +66,8 @@ donate-group = Premium dla <u>czatu</u>!
 
     Za wsparcie 30 UAH lub więcej otrzymujesz:
     - Możliwość ustawienia tła grupy dla wykresów użytkowników
-    - Ustaw GIF jako tło wykresu grupy
-    - Zmień kolory wykresu i czcionki w statystykach czatu
+    - Ustawienie GIF jako tło wykresu grupy
+    - Zmiana kolory wykresu i czcionki w statystykach czatu
 
     Każdy członek czatu może zapłacić.
     Aby uzyskać premium na swoje konto, użyj /donate w prywatnej rozmowie z botem.
@@ -82,7 +81,7 @@ user-not-found = ❌ Użytkownik nie znaleziony.
 
 active-del-success = ✅ Pomyślnie usunięto {$name} z aktywności i ukryto ze statystyk.
 
-only_private_cmd = Ta komenda działa tylko w <a href="https://t.me/soniashnyk_statistics_bot">wiadomościach prywatnych z botem.</a>
+only_private_cmd = Ta komenda działa tylko w <a href="https://t.me/soniashnyk_statistics_bot">prywatnych wiadomościach z botem.</a>
 
 chart-bg-change-success = 💅🏻 Tło zostało pomyślnie zaktualizowane!
 
@@ -94,7 +93,7 @@ chart-bg-how-to-use = Wyślij komendę w odpowiedzi na zdjęcie/GIF.
 
 chart-bg-change-restricted = Masz tymczasowy zakaz zmiany tła.
 
-chart-bg-animation-donate-only = Animowane tła są dostępne tylko dla darczyńców /donate
+chart-bg-animation-donate-only = Animowane tła są dostępne tylko dla wspierających /donate
 
 anon-user-unsupported-error = Wygląda na to, że piszesz jako czat lub kanał. To nie jest obsługiwane.
 
@@ -212,7 +211,7 @@ button-change-language-menu = Zmień język 🗣🌏
 
 ### MENU USTAWIEŃ ###
 
-settings-menu-donate-alert = Ta funkcja jest dostępna dla darczyńców — wpisz /donate na wybranym czacie!
+settings-menu-donate-alert = Ta funkcja jest dostępna dla wspierających — wpisz /donate na wybranym czacie!
 
 settings-menu-charts = Wykresy statystyk
 
@@ -239,18 +238,18 @@ bot-description = Twój ulubiony bot statystyk! 😉
 
 bot-command-help = Komendy i funkcje bota
 bot-command-donate = Wesprzyj bota
-bot-command-i = Moje Statystyka
+bot-command-i = Moja statystyka
 bot-command-you = Statystyka użytkownika
 bot-command-stats = Statystyka czatu
 bot-command-statsall = Statystyka czatu za cały czas
 bot-command-settings = Ustawienia bota
 bot-command-tchats = Ranking czatów
-bot-command-w = Statystyka tygodniowe
-bot-command-m = Statystyka miesięczne
-bot-command-y = Statystyka roczne
+bot-command-w = Statystyka tygodniowa
+bot-command-m = Statystyka miesięczna
+bot-command-y = Statystyka roczna
 bot-command-nick = Zmień nick
 bot-command-setchatbg = Zmień tło czatu
-bot-command-setmybg = Zmień moje tło
+bot-command-setmybg = Zmień swoje tło
 bot-command-lang = Zmień język bota
 
 ### BŁĘDY ###
