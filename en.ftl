@@ -1,7 +1,8 @@
 ### COMMANDS ###
 
 change-locale = To change the language, please click on one of the buttons below.
-    
+    Для зміни мови, натисніть на одну з кнопок нижче.
+
     Currently selected: {$language}
 
 start = 🌻 Sunflower Bot | Statistics – the most convenient way to track your chat's activity!
