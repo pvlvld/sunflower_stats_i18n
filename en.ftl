@@ -55,10 +55,8 @@ help = 🌻Sunflower Statistics Bot.
 donate-private = <u>Personal</u> premium!
 
     For a donation of 15 UAH or more, you get:
-    - Set a GIF as your stats background
-    - Change chart and font colors in your statistics
-    - Set your own call emoji and relationship date in @soniashnyk_bot
-    - Change the start date of your relationship
+    - Set a GIF as your stats chart background
+    - Change chart and font colors in your stats
 
     To get premium for a chat, use this command directly in the chat.
     After donating, use /refreshDonate if donor status was not granted.
@@ -66,11 +64,9 @@ donate-private = <u>Personal</u> premium!
 donate-group = Premium for <u>the chat</u>!
 
     For a donation of 30 UAH or more, you get:
-    - Ability to apply the chat background to user statistics
-    - Set a GIF as the chat background
+    - Ability to apply the group background to user stats charts
+    - Set a GIF as the group stats chart background
     - Change chart and font colors in chat statistics
-    - 10 custom commands in @soniashnyk_bot
-    - Crocodile game in @soniashnyk_bot
     - No bot ads
     
     Any chat member can pay.
@@ -102,19 +98,19 @@ chart-bg-animation-donate-only = Animated backgrounds are available to donors on
 anon-user-unsupported-error = It looks like you are writing as a chat or channel. This is not supported.
 
 inactive-enter-page = Enter the page number.
-    !notactive 1
+    /inactive 1
 
 empty-page-error = This page is empty.
 
 settings-message = Sunflower | Statistics Settings
 
     Statistics charts {$charts}
-    Chat background for !me and !you commands {$usechatbgforall}
+    Chat background for /i and /you commands {$usechatbgforall}
     Statistics commands for admins only {$statsadminsonly}
-    Self-destructing statistics messages {$selfdestructstats}
-    Account links in user stats {$userstatslink}
+    Self-destructing stats messages {$selfdestructstats}
+    Profile links in stats {$userstatslink}
 
-nick-max-length-error = Maximum nickname length is 20 characters.
+nick-max-length-error = Max nickname length is 20 characters.
 
 nick-del-success = ✅ Nickname removed.
 
@@ -174,7 +170,7 @@ history-scan-dont-needed = No need to scan.
 
 history-scan-nor-invite = Grant me permission to invite members or make the chat public so I can add the scanner.
 
-history-scan-cant-start = Failed to get the chat ID to add the scanner. Make sure I have permission to add new members or make the chat public.
+history-scan-cant-start = Failed to add the scanner. Make sure I have permission to add new members or make the chat public.
 
 history-scan-finished = Successfully scanned and added {$count} messages to statistics!
 
@@ -185,7 +181,7 @@ history-scan-first-known-msg-older-than-chat = The first saved message in statis
 ### CHAT CLEANING ###
 
 chat-cleanup-usage = Usage example:
-    !cleanup 7 100
+    /cleanup 7 100
     7 - number of days, 100 - minimum number of messages in that time.
 chat-cleanup-already-running = Cleanup is already running in the chat. Cancel it or try again later.
 chat-cleanup-nothing-found = 0 members found for the specified parameters.
@@ -199,7 +195,6 @@ chat-cleanup-protection-usage = 🛏 <b>!rest</b>: protect a person from cleanup
 
     If you use the command before cleanup, the bot will try to make the person an admin without rights and set the label "rest".
     If you use the command after !cleanup, the bot will remove the person from the list.
-chat-cleanup-user-protected = ✅ ${user?.name} successfully excluded from cleanup.
 
 
 ### BUTTONS misc ###
@@ -233,11 +228,10 @@ settings-menu-users-link = User account links
 
 bot-name = Sunflower | Statistics
 
-bot-about = Your favorite statistics bot! ;)
+bot-about = Your favorite stats bot! 😉
 
-    Charts with personal backgrounds!
-
-    Statistics for any day and period!
+    Charts with custom backgrounds!
+    Stats for any day and time range!
     Channel: @soniashnyk
 
 bot-description = Your favorite statistics bot! ;)
