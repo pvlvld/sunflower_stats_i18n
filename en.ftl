@@ -5,29 +5,28 @@ change-locale = To change the language, please click on one of the buttons below
 
     Currently selected: {$language}
 
-start = 🌻 Sunflower Bot | Statistics – the most convenient way to track your chat's activity!
+start = 🌻 Sunflower | Statistics – the most convenient way to track your chat activity!
 
-    🔍 What can the bot do?
+    🔍 What can this bot do?
 
-    📊 Displays statistics for the day, week, month, or any period.
-    🎨 Generates unique statistics charts with custom backgrounds and colors.
-    🧹 Tools for managing members activity.
-    ⚙️ Ability to restrict statistics commands, disable account links, etc.
-    🌟 Unique feature: personalize chart backgrounds for yourself and your chat with your own images!
+    📊 Display statistics for a day, week, month, or any other period.
+    🎨 Generate unique statistics graphs with custom background and colors.
+    🧹 It has tools for managing participant activity: removing inactive users, hiding users from statistics.
+    ⚙️ There is an ability to limit statistics calls, disable links to accounts, etc.
+    🌟 Also it has a unique feature: customize background of the grap for yourself and the chat with your own images or GIFs!
 
-    Add the bot, explore activity, and make your chat even more interesting! 💬
     👉 Learn more: soniashnyk.t.me
 
 help = 🌻Sunflower Statistics Bot.
     <b>Check statistics and activity in your chat:</b>
 
-    📊 <b>stats | /stats</b>: stats for yesterday, day, week, month, year, by date (e.g., <code>/stats 2024.01.01</code> or <code>/stats 2024.01.01 2024.06.01</code>).
+    📊 <b>stats | /stats</b>: stats for yesterday, day, week, month, year, for a date (e.g., <code>/stats 2024.01.01</code> or <code>/stats 2024.01.01 2024.06.01</code>).
 
     📈 <b>/i</b>: view your own statistics.
 
     📈 <b>/i</b>: view your personal top chats and statistics (in a private chat with the bot).
 
-    📈 <b>/you/b>: view another user's statistics (by username, name, or reply).
+    📈 <b>/you</b>: view another user's statistics (by username, name, or reply).
 
     📉 <b>/inactive X</b>: view the chat activity page from the oldest (replace X with the page number).
 
@@ -45,11 +44,11 @@ help = 🌻Sunflower Statistics Bot.
 
     🫣 <b>!hide</b>: hide a person from statistics / reset their first seen date (by name, username, or reply).
 
-    💸 <b>/refreshDonate</b>: Refresh your donor or chat status.
+    💸 <b>/refreshDonate</b>: Refresh your or chat donor status.
 
     ⚙️ <b>/settings</b>: Chat settings.
 
-    🖼 Statistics charts work only for stats from 3+ days. If you just added the bot, they will appear soon 😉!
+    🖼 Statistics charts work only for stats from 3+ days. If you've just added the bot, they will appear soon 😉!
 
     My channel: soniashnyk.t.me
 
