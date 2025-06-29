@@ -20,7 +20,7 @@ start = 🌻 Sunflower Bot | Statistics – the most convenient way to track you
 help = 🌻Sunflower Statistics Bot.
     <b>Check statistics and activity in your chat:</b>
 
-    📊 <b>Statistics | /stats</b>: stats for yesterday, day, week, month, year, by date (e.g., <code>/stats 2024.01.01</code> or <code>/stats 2024.01.01 2024.06.01</code>).
+    📊 <b>stats | /stats</b>: stats for yesterday, day, week, month, year, by date (e.g., <code>/stats 2024.01.01</code> or <code>/stats 2024.01.01 2024.06.01</code>).
 
     📈 <b>/i</b>: view your own statistics.
 
@@ -234,7 +234,7 @@ bot-about = Your favorite stats bot! 😉
     Stats for any day and time range!
     Channel: @soniashnyk
 
-bot-description = Your favorite statistics bot! ;)
+bot-description = Your favorite statistics bot! 😉
 
 bot-command-help = Bot commands and features
 bot-command-donate = Support the bot
