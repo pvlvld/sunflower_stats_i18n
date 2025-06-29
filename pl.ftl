@@ -6,11 +6,11 @@ change-locale = Aby zmienić język, kliknij jeden z przycisków poniżej.
     
     Aktualnie wybrany: {$language}
 
-start = 🌻 Sunflower Bot | Statystyki – najwygodniejszy sposób na śledzenie aktywności Twojego czatu!
+start = 🌻 Sunflower Stats – najwygodniejszy sposób na śledzenie aktywności Twojego czatu!
 
     🔍 Co potrafi bot?
 
-    📊 Wyświetla statystyki za dzień, tydzień, miesiąc lub dowolny okres.
+    📊 Wyświetla Statystyka za dzień, tydzień, miesiąc lub dowolny okres.
     🎨 Generuje unikalne wykresy statystyk z własnymi tłami i kolorami.
     🧹 Narzędzia do zarządzania aktywnością członków.
     ⚙️ Możliwość ograniczenia komend statystyk, wyłączenia linków do kont, itp.
@@ -19,16 +19,16 @@ start = 🌻 Sunflower Bot | Statystyki – najwygodniejszy sposób na śledzeni
     Dodaj bota, sprawdź aktywność i uczyń swój czat jeszcze ciekawszym! 💬
     👉 Dowiedz się więcej: soniashnyk.t.me
 
-help = 🌻Sunflower Statistics Bot.
-    <b>Sprawdź statystyki i aktywność na swoim czacie:</b>
+help = 🌻Sunflower Stats.
+    <b>Sprawdź Statystyka i aktywność na swoim czacie:</b>
 
-    📊 <b>stats | /stats</b>: statystyki za wczoraj, dzień, tydzień, miesiąc, rok, według daty (np. <code>/stats 2024.01.01</code> lub <code>/stats 2024.01.01 2024.06.01</code>).
+    📊 <b>stats | /stats</b>: Statystyka za wczoraj, dzień, tydzień, miesiąc, rok, według daty (np. <code>/stats 2024.01.01</code> lub <code>/stats 2024.01.01 2024.06.01</code>).
 
-    📈 <b>/i</b>: zobacz swoje statystyki.
+    📈 <b>/i</b>: zobacz swoje Statystyka.
 
-    📈 <b>/i</b>: zobacz swój osobisty ranking czatów i statystyki (w prywatnej rozmowie z botem).
+    📈 <b>/i</b>: zobacz swój osobisty ranking czatów i Statystyka (w prywatnej rozmowie z botem).
 
-    📈 <b>/you</b>: zobacz statystyki innego użytkownika (po nazwie, nicku lub w odpowiedzi).
+    📈 <b>/you</b>: zobacz Statystyka innego użytkownika (po nazwie, nicku lub w odpowiedzi).
 
     📉 <b>/inactive X</b>: zobacz stronę aktywności czatu od najstarszych (zamień X na numer strony).
 
@@ -56,24 +56,23 @@ help = 🌻Sunflower Statistics Bot.
 
 donate-private = <u>Osobisty</u> premium!
 
-    Za darowiznę 15 UAH lub więcej otrzymujesz:
+    Za wsparcie 15 UAH lub więcej otrzymujesz:
     - Ustaw GIF jako tło wykresu statystyk
     - Zmień kolory wykresu i czcionki w swoich statystykach
 
     Aby uzyskać premium dla czatu, użyj tej komendy bezpośrednio na czacie.
-    Po darowiźnie użyj /refreshDonate, jeśli status darczyńcy nie został przyznany.
+    Po wsparcie użyj /refreshDonate, jeśli status darczyńcy nie został przyznany.
 
 donate-group = Premium dla <u>czatu</u>!
 
-    Za darowiznę 30 UAH lub więcej otrzymujesz:
-    - Możliwość zastosowania tła grupy do wykresów użytkowników
+    Za wsparcie 30 UAH lub więcej otrzymujesz:
+    - Możliwość ustawienia tła grupy dla wykresów użytkowników
     - Ustaw GIF jako tło wykresu grupy
     - Zmień kolory wykresu i czcionki w statystykach czatu
-    - Brak reklam bota
-    
+
     Każdy członek czatu może zapłacić.
-    Aby uzyskać premium dla swojego konta, użyj /donate w prywatnej rozmowie z botem.
-    Po darowiźnie użyj /refreshDonate, jeśli status darczyńcy nie został przyznany.
+    Aby uzyskać premium na swoje konto, użyj /donate w prywatnej rozmowie z botem.
+    Po wsparciu użyj /refreshDonate, jeśli status wspierającego nie został przyznany.
 
 error = Coś poszło nie tak.
 
@@ -104,7 +103,7 @@ inactive-enter-page = Wpisz numer strony.
 
 empty-page-error = Ta strona jest pusta.
 
-settings-message = Sunflower | Statystyki – Ustawienia
+settings-message = Sunflower Stats – Ustawienia
 
     Wykresy statystyk {$charts}
     Tło czatu dla komend /i i /you {$usechatbgforall}
@@ -123,13 +122,13 @@ stats-empty-date = Wygląda na to, że nie ma statystyk dla tej daty.
 stats-date-help = Komenda powinna mieć taki format:
     "stats 2025.04.13" lub "/stats 2025.04.01 2025.04.14"
 
-stats-chat-period = 📊 Statystyki{$title} za {$period}
+stats-chat-period = 📊 Statystyka{$title} za {$period}
 
 stats-total-amount = Łączna liczba
 
 # "today" | "yesterday" | "weekRange" | "monthRange" | "yearRange" | "all"
 # stats-chat-period -> $period <-
-# Statystyki czatu za dziś / wczoraj / cały czas / ...
+# Statystyka czatu za dziś / wczoraj / cały czas / ...
 stats-period-today = dzisiaj
 stats-period-yesterday = wczoraj
 stats-period-weekRange = tydzień
@@ -147,7 +146,7 @@ first-user-message = Wygląda na to, że to Twoja pierwsza wiadomość na tym cz
 
 robot-sounds = 🤖 bip-bop
 
-stats-user-message = Statystyki{$name}
+stats-user-message = Statystyka{$name}
 
     - za dzień: {$today}
     - za tydzień: {$week}
@@ -228,27 +227,27 @@ settings-menu-users-link = Linki do kont użytkowników
 
 ### INTERFEJS BOTA TELEGRAM ###
 
-bot-name = Sunflower | Statystyki
+bot-name = Sunflower Stats
 
-bot-about = Twój ulubiony bot statystyk! ;)
+bot-about = Twój ulubiony bot statystyk! 😉
 
     Wykresy z własnym tłem!
-    Statystyki na dowolny dzień i okres!
+    Statystyka na dowolny dzień i okres!
     Kanał: @soniashnyk
 
-bot-description = Twój ulubiony bot statystyk! ;)
+bot-description = Twój ulubiony bot statystyk! 😉
 
 bot-command-help = Komendy i funkcje bota
 bot-command-donate = Wesprzyj bota
-bot-command-i = Moje statystyki
-bot-command-you = Statystyki użytkownika
-bot-command-stats = Statystyki czatu
-bot-command-statsall = Statystyki czatu za cały czas
+bot-command-i = Moje Statystyka
+bot-command-you = Statystyka użytkownika
+bot-command-stats = Statystyka czatu
+bot-command-statsall = Statystyka czatu za cały czas
 bot-command-settings = Ustawienia bota
 bot-command-tchats = Ranking czatów
-bot-command-w = Statystyki tygodniowe
-bot-command-m = Statystyki miesięczne
-bot-command-y = Statystyki roczne
+bot-command-w = Statystyka tygodniowe
+bot-command-m = Statystyka miesięczne
+bot-command-y = Statystyka roczne
 bot-command-nick = Zmień nick
 bot-command-setchatbg = Zmień tło czatu
 bot-command-setmybg = Zmień moje tło
