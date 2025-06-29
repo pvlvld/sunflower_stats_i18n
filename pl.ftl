@@ -259,3 +259,5 @@ error-ner-photos = Bot nie ma uprawnień do wysyłania obrazów, wykresy został
     Aby je włączyć, przyznaj botowi uprawnienia i zmień ustawienia w /settings
 
 error-smtn-went-wrong-call-admin = Coś poszło nie tak. Spróbuj ponownie później lub skontaktuj się z administratorem bota.
+
+error-chat-owner-only = Tylko dla właściciela czatu.

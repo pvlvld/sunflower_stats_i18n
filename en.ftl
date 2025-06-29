@@ -258,3 +258,5 @@ error-ner-photos = The bot does not have permission to send images, charts have 
     To enable them, grant the bot permission and change the settings in /settings
 
 error-smtn-went-wrong-call-admin = Something went wrong. Please try again later or contact the bot administrator.
+
+error-chat-owner-only = Chat owner only.

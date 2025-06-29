@@ -262,3 +262,5 @@ error-ner-photos = Der Bot hat keine Berechtigung, Bilder zu senden, Diagramme w
     Um sie zu aktivieren, geben Sie dem Bot die Berechtigung und ändern Sie die Einstellungen in /settings
 
 error-smtn-went-wrong-call-admin = Etwas ist schief gelaufen. Bitte versuchen Sie es später erneut oder wenden Sie sich an den Bot-Administrator.
+
+error-chat-owner-only = Nur für den Chat-Inhaber.
