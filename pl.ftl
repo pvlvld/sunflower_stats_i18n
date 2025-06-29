@@ -61,7 +61,7 @@ donate-private = <u>Osobisty</u> premium!
     - Zmień kolory wykresu i czcionki w swoich statystykach
 
     Aby uzyskać premium dla czatu, użyj tej komendy bezpośrednio na czacie.
-    Po wsparcie użyj /refreshDonate, jeśli status darczyńcy nie został przyznany.
+    Po wsparciu użyj /refreshDonate, jeśli status wspierającego nie został przyznany.
 
 donate-group = Premium dla <u>czatu</u>!
 
