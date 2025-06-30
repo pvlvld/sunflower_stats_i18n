@@ -148,10 +148,10 @@ robot-sounds = 🤖 bip-bop
 
 stats-user-message = Statystyka{$name}
 
-    - za dzień: {$today}
-    - za tydzień: {$week}
-    - za miesiąc: {$month}
-    - za rok: {$year}
+    - dzień: {$today}
+    - tydzień: {$week}
+    - miesiąc: {$month}
+    - rok: {$year}
     - za cały czas: {$total}
 
     📅 Pierwsza wiadomość: {$firstSeen}

@@ -147,11 +147,11 @@ robot-sounds = 🤖 beep-boop
 
 stats-user-message = Statistics{$name}
 
-    - for the day: {$today}
-    - for the week: {$week}
-    - for the month: {$month}
-    - for the year: {$year}
-    - for all time: {$total}
+    - day: {$today}
+    - week: {$week}
+    - month: {$month}
+    - year: {$year}
+    - all time: {$total}
 
     📅 First message: {$firstSeen}
 
