@@ -237,6 +237,7 @@ bot-about = Twój ulubiony bot statystyk! 😉
 
 bot-description = Twój ulubiony bot statystyk! 😉
 
+bot-command-about = O bocie
 bot-command-help = Komendy i funkcje bota
 bot-command-donate = Wesprzyj bota
 bot-command-i = Moje Statystyka

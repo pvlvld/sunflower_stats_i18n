@@ -236,6 +236,7 @@ bot-about = Your favorite stats bot! 😉
 
 bot-description = Your favorite statistics bot! 😉
 
+bot-command-about = About bot
 bot-command-help = Bot commands and features
 bot-command-donate = Support the bot
 bot-command-i = My statistics
