@@ -3,6 +3,7 @@
 # KOMENDY
 
 change-locale = Aby zmienić język, kliknij jeden z przycisków poniżej.
+    Chcesz pomóc z tłumaczeniem? Napisz @pvlvld.
     /about - O bocie.
     
     Aktualnie wybrany: {$language}
