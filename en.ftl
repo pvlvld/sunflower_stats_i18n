@@ -1,4 +1,4 @@
-### COMMANDS ###
+# COMMANDS
 
 change-locale = To change the language, please click on one of the buttons below.
     Для зміни мови, натисніть на одну з кнопок нижче.
@@ -159,7 +159,7 @@ stats-global-chats-weekly = Top chats for the last week:
     
     <blockquote>{$top}</blockquote>
 
-### HISTORY SCANNER ###
+# HISTORY SCANNER
 
 history-scan-prompt = Scan chat history so old messages are included in chat statistics?
 
@@ -178,7 +178,7 @@ history-scan-first-known-msg-older-than-chat = The first saved message in statis
     If you think this is a mistake or want to rescan the chat, contact the bot administrator.
 
 
-### CHAT CLEANING ###
+# CHAT CLEANING
 
 chat-cleanup-usage = Usage example:
     /cleanup 7 100
@@ -197,7 +197,7 @@ chat-cleanup-protection-usage = 🛏 <b>!rest</b>: protect a person from cleanup
     If you use the command after !cleanup, the bot will remove the person from the list.
 
 
-### BUTTONS misc ###
+# BUTTONS misc
 
 button-yes = Yes
 button-no = No
@@ -209,7 +209,7 @@ button-plz-donate = Donate 💸🫰🏻
 button-change-language-menu = Change language 🗣🌏
 
 
-### MENU SETTINGS ###
+# MENU SETTINGS
 
 settings-menu-donate-alert = This feature is available to donors — enter /donate in the desired chat!
 
@@ -224,7 +224,7 @@ settings-menu-selfdestruct-stats = Self-destructing bot messages
 settings-menu-users-link = User account links
 
 
-### TELEGRAM BOT INTERFACE ###
+# TELEGRAM BOT INTERFACE
 
 bot-name = Sunflower | Statistics
 
@@ -253,7 +253,7 @@ bot-command-setchatbg = Change chat background
 bot-command-setmybg = Change my background
 bot-command-lang = Change bot language
 
-### ERRORS ###
+# ERRORS
 
 error-ner-photos = The bot does not have permission to send images, charts have been disabled.
     To enable them, grant the bot permission and change the settings in /settings
