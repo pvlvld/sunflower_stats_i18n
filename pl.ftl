@@ -3,6 +3,7 @@
 # KOMENDY
 
 change-locale = Aby zmienić język, kliknij jeden z przycisków poniżej.
+    /about - O bocie.
     
     Aktualnie wybrany: {$language}
 

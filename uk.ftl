@@ -2,6 +2,7 @@
 
 change-locale = Для зміни мови, натисніть на одну з кнопок нижче.
     To change the language, please click on one of the buttons below.
+    /about - Про бота.
 
     Зараз обрано: {$language}
 
