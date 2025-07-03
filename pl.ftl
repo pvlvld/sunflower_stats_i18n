@@ -162,6 +162,8 @@ stats-global-chats-weekly = Najlepsze czaty z ostatniego tygodnia:
     
     <blockquote>{$top}</blockquote>
 
+chat-peak-days = Szczytowe dni w historii czatu.
+
 ### HISTORY SCANNER ###
 
 history-scan-prompt = Przeskanować historię czatu, aby stare wiadomości były uwzględnione w statystykach?

@@ -166,6 +166,8 @@ stats-global-chats-weekly = Топ чатів за останній тижден
     
     <blockquote>{$top}</blockquote>
 
+chat-peak-days = Пікові дні в історії чату.
+
 # HISTORY SCANNER
 
 history-scan-prompt = Відсканувати історію чату, щоб старі повідомлення відображались в статистиці чату?

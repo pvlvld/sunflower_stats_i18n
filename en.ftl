@@ -161,6 +161,9 @@ stats-global-chats-weekly = Top chats for the last week:
     
     <blockquote>{$top}</blockquote>
 
+chat-peak-days = Peak days in chat history.
+
+
 # HISTORY SCANNER
 
 history-scan-prompt = Scan chat history so old messages are included in chat statistics?
