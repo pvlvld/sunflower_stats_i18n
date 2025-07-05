@@ -84,7 +84,7 @@ user-not-found = ❌ Użytkownik nie znaleziony.
 
 active-del-success = ✅ Pomyślnie usunięto {$name} z aktywności i ukryto ze statystyk.
 
-only_private_cmd = Ta komenda działa tylko w <a href="https://t.me/soniashnyk_statistics_bot">wiadomościach prywatnych z botem.</a>
+only_private_cmd = Ta komenda działa tylko w <a href="https://t.me/soniashnyk_statistics_bot?text={$command}">wiadomościach prywatnych z botem.</a>
 
 chart-bg-change-success = 💅🏻 Tło zostało pomyślnie zaktualizowane!
 

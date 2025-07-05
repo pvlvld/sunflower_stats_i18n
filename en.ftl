@@ -83,7 +83,7 @@ user-not-found = ❌ User not found.
 
 active-del-success = ✅ Successfully removed {$name} from activity and hidden from statistics.
 
-only_private_cmd = This command only works in <a href="https://t.me/soniashnyk_statistics_bot">private messages with the bot.</a>
+only_private_cmd = This command only works in <a href="https://t.me/soniashnyk_statistics_bot?text={$command}">private messages with the bot.</a>
 
 chart-bg-change-success = 💅🏻 Background updated successfully!
 
