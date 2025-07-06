@@ -257,6 +257,7 @@ bot-command-nick = Zmień nick
 bot-command-setchatbg = Zmień tło czatu
 bot-command-setmybg = Zmień moje tło
 bot-command-lang = Zmień język bota
+bot-command-peakdays = Szczytowe dni w historii czatu
 
 ### BŁĘDY ###
 

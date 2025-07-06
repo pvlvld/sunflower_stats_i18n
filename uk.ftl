@@ -261,6 +261,7 @@ bot-command-nick = Змінити нік
 bot-command-setchatbg = Змінити фон чату
 bot-command-setmybg = Змінити мій фон
 bot-command-lang = Змінити мову бота
+bot-command-peakdays = Пікові дні в історії чату
 
 # ERRORS
 

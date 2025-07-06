@@ -257,6 +257,7 @@ bot-command-nick = Change nickname
 bot-command-setchatbg = Change chat background
 bot-command-setmybg = Change my background
 bot-command-lang = Change bot language
+bot-command-peakdays = Peak days in chat history
 
 # ERRORS
 
