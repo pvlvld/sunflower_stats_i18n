@@ -267,3 +267,5 @@ error-ner-photos = The bot does not have permission to send images, charts have 
 error-smtn-went-wrong-call-admin = Something went wrong. Please try again later or contact the bot administrator.
 
 error-chat-owner-only = Chat owner only.
+
+error-comamnd-once-per-day = This command available once per day.

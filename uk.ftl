@@ -271,3 +271,5 @@ error-ner-photos = У бота немає прав надсилати зобра
 error-smtn-went-wrong-call-admin = Щось пішло не так. Спробуйте пізніше або повідомте адміністратору бота.
 
 error-chat-owner-only = Дозволено лише власнику чату.
+
+error-comamnd-once-per-day = Ця команда доступна раз на добу.

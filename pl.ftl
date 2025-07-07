@@ -267,3 +267,5 @@ error-ner-photos = Bot nie ma uprawnień do wysyłania obrazów, wykresy został
 error-smtn-went-wrong-call-admin = Coś poszło nie tak. Spróbuj ponownie później lub skontaktuj się z administratorem bota.
 
 error-chat-owner-only = Tylko dla właściciela czatu.
+
+error-comamnd-once-per-day = Ta komenda jest dostępna raz na dobę.
