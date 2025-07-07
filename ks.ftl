@@ -272,3 +272,5 @@ error-ner-photos = У мене немає прав надсилати зобра
 error-smtn-went-wrong-call-admin = Щось пішло не так. Спробуйте пізніше або повідомте адміністратору бота. @soniashnyk_chat / @pvlvld / @uli_sunflower
 
 error-chat-owner-only = Дозволено лише власнику чату.
+
+error-comamnd-once-per-day = Ця команда доступна лише раз на добу :3
