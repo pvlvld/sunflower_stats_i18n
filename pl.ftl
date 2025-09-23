@@ -269,3 +269,9 @@ error-smtn-went-wrong-call-admin = Coś poszło nie tak. Spróbuj ponownie póź
 error-chat-owner-only = Tylko dla właściciela czatu.
 
 error-comamnd-once-per-day = Ta komenda jest dostępna raz na dobę.
+
+# MONAY LAUNDERING
+
+mention-prem-chart-animation = Ustaw GIF jako tło – /donate
+
+mention-chart-bg-feature = Zmień tło za darmo – /setmybg

@@ -100,7 +100,7 @@ chart-bg-how-to-use = Надішліть команду у відповідь н
 
 chart-bg-change-restricted = Вам тимчасово заборонено змінювати фони.
 
-chart-bg-animation-donate-only = Анімовані фони доступні лише донатерам /donate
+chart-bg-animation-donate-only = Анімовані фони доступні донатерам /donate
 
 anon-user-unsupported-error = Схоже, що ви пишете від імені чату або каналу. Це не підтримується.
 
@@ -273,3 +273,9 @@ error-smtn-went-wrong-call-admin = Щось пішло не так. Спробу
 error-chat-owner-only = Дозволено лише власнику чату.
 
 error-comamnd-once-per-day = Ця команда доступна раз на добу.
+
+# MONAY LAUNDERING
+
+mention-prem-chart-animation = Доступно встановлення гіф на фон - /donate
+
+mention-chart-bg-feature = Змінити фон безкоштовно - /setmybg

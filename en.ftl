@@ -269,3 +269,9 @@ error-smtn-went-wrong-call-admin = Something went wrong. Please try again later 
 error-chat-owner-only = Chat owner only.
 
 error-comamnd-once-per-day = This command available once per day.
+
+# MONAY LAUNDERING
+
+mention-prem-chart-animation = Set a GIF as background – /donate
+
+mention-chart-bg-feature = Change background for free – /setmybg

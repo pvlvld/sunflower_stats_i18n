@@ -274,3 +274,9 @@ error-smtn-went-wrong-call-admin = Щось пішло не так. Спробу
 error-chat-owner-only = Дозволено лише власнику чату.
 
 error-comamnd-once-per-day = Ця команда доступна лише раз на добу :3
+
+# MONAY LAUNDERING
+
+mention-prem-chart-animation = Доступно встанявлення гіф на фон - /donate
+
+mention-chart-bg-feature = Змінявити фон безкоштовно - /setmybg
