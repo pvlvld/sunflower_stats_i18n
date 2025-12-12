@@ -272,6 +272,6 @@ error-comamnd-once-per-day = Ta komenda jest dostępna raz na dobę.
 
 # MONAY LAUNDERING
 
-mention-prem-chart-animation = Ustaw GIF jako tło – /donate
+promo-chart-animation = Ustaw GIF jako tło – /donate
 
-mention-chart-bg-feature = Zmień tło za darmo – /setmybg
+promo-chart-bg = Zmień tło za darmo – /setmybg

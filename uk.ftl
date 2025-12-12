@@ -276,6 +276,6 @@ error-comamnd-once-per-day = Ця команда доступна раз на д
 
 # MONAY LAUNDERING
 
-mention-prem-chart-animation = Доступно встановлення гіф на фон - /donate
+promo-chart-animation = Доступно встановлення гіф на фон - /donate
 
-mention-chart-bg-feature = Змінити фон безкоштовно - /setmybg
+promo-chart-bg = Змінити фон безкоштовно - /setmybg
