@@ -48,8 +48,6 @@ help = 🌻Sunflower Stats.
 
     🫣 <b>!hide</b>: ukryj osobę ze statystyk / zresetuj datę pierwszego pojawienia się (po nazwie, nicku lub w odpowiedzi).
 
-    💸 <b>/refreshDonate</b>: Odśwież swój status darczyńcy lub czatu.
-
     ⚙️ <b>/settings</b>: Ustawienia czatu.
 
     🖼 Wykresy statystyk działają tylko dla statystyk z 3+ dni. Jeśli dopiero dodałeś bota, pojawią się wkrótce 😉!
@@ -63,7 +61,6 @@ donate-private = <u>Osobisty</u> premium!
     - Zmień kolory wykresu i czcionki w swoich statystykach
 
     Aby uzyskać premium dla czatu, użyj tej komendy bezpośrednio na czacie.
-    Po wsparciu użyj /refreshDonate, jeśli status wspierającego nie został przyznany.
 
 donate-group = Premium dla <u>czatu</u>!
 
@@ -74,7 +71,6 @@ donate-group = Premium dla <u>czatu</u>!
 
     Każdy członek czatu może zapłacić.
     Aby uzyskać premium na swoje konto, użyj /donate w prywatnej rozmowie z botem.
-    Po wsparciu użyj /refreshDonate, jeśli status wspierającego nie został przyznany.
 
 error = Coś poszło nie tak.
 

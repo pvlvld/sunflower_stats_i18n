@@ -46,8 +46,6 @@ help = 🌻Sunflower Statistics Bot.
 
     🫣 <b>!hide</b>: hide a person from statistics / reset their first seen date (by name, username, or reply).
 
-    💸 <b>/refreshDonate</b>: Refresh your or chat donor status.
-
     ⚙️ <b>/settings</b>: Chat settings.
 
     🖼 Statistics charts work only for stats from 3+ days. If you've just added the bot, they will appear soon 😉!
@@ -61,7 +59,6 @@ donate-private = <u>Personal</u> premium!
     - Change chart and font colors in your stats
 
     To get premium for a chat, use this command directly in the chat.
-    After donating, use /refreshDonate if donor status was not granted.
 
 donate-group = Premium for <u>the chat</u>!
 
@@ -73,7 +70,6 @@ donate-group = Premium for <u>the chat</u>!
     
     Any chat member can pay.
     To get premium for your own account, use /donate in a private chat with the bot.
-    After donating, use /refreshDonate if donor status was not granted.
 
 error = Something went wrong.
 
