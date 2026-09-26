@@ -137,6 +137,9 @@ stats-period-weekRange = सप्ताह
 stats-period-monthRange = महीना
 stats-period-yearRange = वर्ष
 stats-period-all = कुल समय
+stats-period-prevWeekRange = पिछला सप्ताह
+stats-period-prevMonthRange = पिछला महीना
+stats-period-prevYearRange = पिछला वर्ष
 
 stats-user-top-chats = {$name} की व्यक्तिगत टॉप चैट
 

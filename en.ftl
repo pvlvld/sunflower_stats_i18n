@@ -132,6 +132,9 @@ stats-period-weekRange = week
 stats-period-monthRange = month
 stats-period-yearRange = year
 stats-period-all = all time
+stats-period-prevWeekRange = last week
+stats-period-prevMonthRange = last month
+stats-period-prevYearRange = last year
 
 stats-user-top-chats = Personal top chats{$name}
 

@@ -137,6 +137,9 @@ stats-period-weekRange = týden
 stats-period-monthRange = měsíc
 stats-period-yearRange = rok
 stats-period-all = celou dobu
+stats-period-prevWeekRange = minulý týden
+stats-period-prevMonthRange = minulý měsíc
+stats-period-prevYearRange = minulý rok
 
 stats-user-top-chats = Osobní top chatů{$name}
 

@@ -133,6 +133,9 @@ stats-period-weekRange = tydzień
 stats-period-monthRange = miesiąc
 stats-period-yearRange = rok
 stats-period-all = cały czas
+stats-period-prevWeekRange = poprzedni tydzień
+stats-period-prevMonthRange = poprzedni miesiąc
+stats-period-prevYearRange = poprzedni rok
 
 stats-user-top-chats = Osobisty ranking czatów{$name}
 

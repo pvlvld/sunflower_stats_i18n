@@ -137,6 +137,9 @@ stats-period-weekRange = тиждень
 stats-period-monthRange = місяць
 stats-period-yearRange = рік
 stats-period-all = весь час
+stats-period-prevWeekRange = минулий тиждень
+stats-period-prevMonthRange = минулий місяць
+stats-period-prevYearRange = минулий рік
 
 stats-user-top-chats = Особистий топ чатів{$name}
 
