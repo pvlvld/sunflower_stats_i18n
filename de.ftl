@@ -165,6 +165,10 @@ stats-global-chats-weekly = Top-Chats der letzten Woche:
 
 chat-peak-days = Spitzentage im Chat-Verlauf.
 
+streak-title = 🔥 Längste Streaks im Chat
+    Graue Flamme — heute noch nichts geschrieben, Streak endet um Mitternacht.
+streak-empty = In diesem Chat gibt es noch keine Streaks.
+
 
 # HISTORY SCANNER
 
@@ -260,6 +264,7 @@ bot-command-setchatbg = Chat-Hintergrund ändern
 bot-command-setmybg = Meinen Hintergrund ändern
 bot-command-lang = Bot-Sprache ändern
 bot-command-peakdays = Spitzentage im Chat-Verlauf
+bot-command-streak = Längste Streaks im Chat
 
 # ERRORS
 

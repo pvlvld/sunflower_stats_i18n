@@ -168,6 +168,10 @@ stats-global-chats-weekly = Топ чатиків за останній Мурж
 
 chat-peak-days = Пікові Кітикодні в історії чатика.
 
+streak-title = 🔥 Найдовші вогники чатика
+    Сірий вогник — котик сьогодні ще не муркав, вогник згасне опівночі.
+streak-empty = У чатику поки немає вогників:с
+
 # HISTORY SCANNER
 
 history-scan-prompt = Відсканувати історію чатика, щоб старе нявчання відображались в Нявстистиці чатика?🐾
@@ -262,6 +266,7 @@ bot-command-setchatbg = Змінити фон чатика
 bot-command-setmybg = Змінити мій фон
 bot-command-lang = Змінити мою мову
 bot-command-peakdays = Пікові дні в історії чатика
+bot-command-streak = Найдовші вогники чатика
 
 # ERRORS
 

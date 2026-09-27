@@ -162,6 +162,10 @@ stats-global-chats-weekly = Top chats de la última semana:
 <blockquote>{$top}</blockquote>
 
 chat-peak-days = Días de mayor actividad en la historia.
+
+streak-title = 🔥 Rachas más largas del chat
+    Llama gris — aún no ha escrito hoy, la racha termina a medianoche.
+streak-empty = Todavía no hay rachas en este chat.
 HISTORY SCANNER
 
 history-scan-prompt = ¿Escanear el historial para que los mensajes antiguos aparezcan en las estadísticas?
@@ -231,6 +235,7 @@ bot-command-setchatbg = Fondo del chat
 bot-command-setmybg = Mi fondo
 bot-command-lang = Cambiar idioma
 bot-command-peakdays = Días pico
+bot-command-streak = Rachas más largas
 ERRORS
 
 error-ner-photos = Sin permiso para enviar fotos, gráficos desactivados. Actívalos en /settings tras dar permisos.

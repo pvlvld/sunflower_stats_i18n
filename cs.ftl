@@ -167,6 +167,10 @@ stats-global-chats-weekly = Top chaty za poslední týden:
 
 chat-peak-days = Špičkové dny v historii chatu.
 
+streak-title = 🔥 Nejdelší série v chatu
+    Šedý plamen — dnes ještě nepsal, série skončí o půlnoci.
+streak-empty = V tomto chatu zatím nejsou žádné série.
+
 # HISTORY SCANNER
 
 history-scan-prompt = Naskenovat historii chatu, aby se staré zprávy zobrazovaly ve statistikách chatu?
@@ -261,6 +265,7 @@ bot-command-setchatbg = Změnit pozadí chatu
 bot-command-setmybg = Změnit moje pozadí
 bot-command-lang = Změnit jazyk bota
 bot-command-peakdays = Špičkové dny v historii chatu
+bot-command-streak = Nejdelší série v chatu
 
 # ERRORS
 

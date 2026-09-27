@@ -167,6 +167,10 @@ stats-global-chats-weekly = पिछले सप्ताह की टॉप 
 
 chat-peak-days = चैट इतिहास के चरम दिन (Peak days)।
 
+streak-title = 🔥 चैट की सबसे लंबी स्ट्रीक
+    ग्रे लौ — आज अभी तक कोई संदेश नहीं, स्ट्रीक आधी रात को खत्म होगी।
+streak-empty = इस चैट में अभी कोई स्ट्रीक नहीं है।
+
 # HISTORY SCANNER
 
 history-scan-prompt = चैट इतिहास को स्कैन करें ताकि पुराने संदेश चैट सांख्यिकी में दिखाई दें?
@@ -257,6 +261,7 @@ bot-command-setchatbg = चैट बैकग्राउंड बदलें
 bot-command-setmybg = मेरा बैकग्राउंड बदलें
 bot-command-lang = बोट की भाषा बदलें
 bot-command-peakdays = चैट इतिहास के चरम दिन
+bot-command-streak = चैट की सबसे लंबी स्ट्रीक
 
 # ERRORS
 

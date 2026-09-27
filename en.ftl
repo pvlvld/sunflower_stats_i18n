@@ -162,6 +162,10 @@ stats-global-chats-weekly = Top chats for the last week:
 
 chat-peak-days = Peak days in chat history.
 
+streak-title = 🔥 Longest chat streaks
+    Gray flame — no messages today yet, streak ends at midnight.
+streak-empty = No streaks in this chat yet.
+
 
 # HISTORY SCANNER
 
@@ -257,6 +261,7 @@ bot-command-setchatbg = Change chat background
 bot-command-setmybg = Change my background
 bot-command-lang = Change bot language
 bot-command-peakdays = Peak days in chat history
+bot-command-streak = Longest chat streaks
 
 # ERRORS
 

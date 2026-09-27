@@ -167,6 +167,10 @@ stats-global-chats-weekly = Топ чатів за останній тижден
 
 chat-peak-days = Пікові дні в історії чату.
 
+streak-title = 🔥 Найдовші вогники чату
+    Сірий вогник — сьогодні ще не писав, вогник згасне опівночі.
+streak-empty = У чаті поки немає вогників.
+
 # HISTORY SCANNER
 
 history-scan-prompt = Відсканувати історію чату, щоб старі повідомлення відображались в статистиці чату?
@@ -261,6 +265,7 @@ bot-command-setchatbg = Змінити фон чату
 bot-command-setmybg = Змінити мій фон
 bot-command-lang = Змінити мову бота
 bot-command-peakdays = Пікові дні в історії чату
+bot-command-streak = Найдовші вогники чату
 
 # ERRORS
 

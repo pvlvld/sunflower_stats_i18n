@@ -163,6 +163,10 @@ stats-global-chats-weekly = Najlepsze czaty z ostatniego tygodnia:
 
 chat-peak-days = Szczytowe dni w historii czatu.
 
+streak-title = 🔥 Najdłuższe serie w czacie
+    Szary płomień — dziś jeszcze nie pisał, seria skończy się o północy.
+streak-empty = W tym czacie nie ma jeszcze serii.
+
 ### HISTORY SCANNER ###
 
 history-scan-prompt = Przeskanować historię czatu, aby stare wiadomości były uwzględnione w statystykach?
@@ -257,6 +261,7 @@ bot-command-setchatbg = Zmień tło czatu
 bot-command-setmybg = Zmień moje tło
 bot-command-lang = Zmień język bota
 bot-command-peakdays = Szczytowe dni w historii czatu
+bot-command-streak = Najdłuższe serie w czacie
 
 ### BŁĘDY ###
 
