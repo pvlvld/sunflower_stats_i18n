@@ -257,7 +257,7 @@ error-comamnd-once-per-day = यह कमांड दिन में एक �
 
 # PROMOTIONS
 
-promo-chart-animation = बैकग्राउंड में GIF सेट करना उपलब्ध है - /donate
+promo-chart-animation = बैकग्राउंड में GIF सेट करना उपलब्ध है!
 
 promo-chart-bg = मुफ्त में बैकग्राउंड बदलें - /setmybg
 

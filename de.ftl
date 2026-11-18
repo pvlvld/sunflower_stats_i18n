@@ -262,6 +262,6 @@ error-comamnd-once-per-day = Dieser Befehl ist nur einmal pro Tag verfügbar.
 
 # MONAY LAUNDERING
 
-promo-chart-animation = Ein GIF als Hintergrund festlegen – /donate
+promo-chart-animation = Ein GIF als Hintergrund festlegen!
 
 promo-chart-bg = Hintergrund kostenlos ändern – /setmybg

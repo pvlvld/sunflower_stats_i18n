@@ -261,6 +261,6 @@ error-comamnd-once-per-day = This command available once per day.
 
 # MONAY LAUNDERING
 
-promo-chart-animation = Set a GIF as background – /donate
+promo-chart-animation = Set a GIF as background!
 
 promo-chart-bg = Change background for free – /setmybg

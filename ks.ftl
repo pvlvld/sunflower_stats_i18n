@@ -262,6 +262,6 @@ error-comamnd-once-per-day = Ця команда доступна лише ра�
 
 # MONAY LAUNDERING
 
-promo-chart-animation = Доступно встанявлення гіф на фон - /donate
+promo-chart-animation = Доступно встанявлення гіф на фон!
 
 promo-chart-bg = Змінити фон безкоштовно - /setmybg

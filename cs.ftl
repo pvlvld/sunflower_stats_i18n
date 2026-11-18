@@ -37,7 +37,7 @@ help = 🌻Bot statistik Slunečnice.
 
     💅🏻 <b>!стата фон чат | /setChatBg</b>: Změna pozadí pro příkazy statistik chatu (příkaz je třeba napsat do popisku k obrázku).
 
-    💅🏻 <b>!стата колір</b>: Změna barvy grafu nebo písma ve statistikách. (donate)
+    💅🏻 <b>!стата колір</b>: Změna barvy grafu nebo písma ve statistikách.
 
     🏷 <b>/nick | +нік X</b>: nastavit požadovanou přezdívku (místo X). Smazat přezdívku: -нік.
 
@@ -261,6 +261,6 @@ error-comamnd-once-per-day = Tento příkaz je dostupný jednou denně.
 
 # MONAY LAUNDERING
 
-promo-chart-animation = K dispozici je nastavení GIFu na pozadí - /donate
+promo-chart-animation = K dispozici je nastavení GIFu na pozadí!
 
 promo-chart-bg = Změnit pozadí zdarma - /setmybg

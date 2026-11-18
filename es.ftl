@@ -225,5 +225,5 @@ error-chat-owner-only = Solo para el dueño del chat.
 error-comamnd-once-per-day = Solo una vez al día.
 PROMOTIONS
 
-promo-chart-animation = Pon un GIF de fondo - /donate
+promo-chart-animation = Pon un GIF de fondo!
 promo-chart-bg = Cambia el fondo gratis - /setmybg
