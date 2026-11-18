@@ -54,23 +54,9 @@ help = 🌻Sunflower Stats.
 
     Mój kanał: soniashnyk.t.me
 
-donate-private = <u>Osobisty</u> premium!
+donate-private = Dziękuję! Wyglądasz dziś naprawdę świetnie 🫰🥰!
 
-    Za wsparcie 15 UAH lub więcej otrzymujesz:
-    - Ustaw GIF jako tło wykresu statystyk
-    - Zmień kolory wykresu i czcionki w swoich statystykach
-
-    Aby uzyskać premium dla czatu, użyj tej komendy bezpośrednio na czacie.
-
-donate-group = Premium dla <u>czatu</u>!
-
-    Za wsparcie 30 UAH lub więcej otrzymujesz:
-    - Możliwość ustawienia tła grupy dla wykresów użytkowników
-    - Ustaw GIF jako tło wykresu grupy
-    - Zmień kolory wykresu i czcionki w statystykach czatu
-
-    Każdy członek czatu może zapłacić.
-    Aby uzyskać premium na swoje konto, użyj /donate w prywatnej rozmowie z botem.
+donate-group = Dziękuję! Wyglądasz dziś naprawdę świetnie 🫰🥰!
 
 error = Coś poszło nie tak.
 

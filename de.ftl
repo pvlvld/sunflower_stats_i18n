@@ -53,26 +53,9 @@ help = 🌻Sunflower Statistik-Bot.
 
     Mein Kanal: soniashnyk.t.me
 
-donate-private = <u>Persönliches</u> Premium!
+donate-private = Danke! Du siehst heute richtig gut aus 🫰🥰!
 
-    Für eine Spende ab 15 UAH erhältst du:
-    - Ein GIF als Hintergrund für dein Statistik-Diagramm
-    - Änderung der Diagramm- und Schriftfarben in deinen Statistiken
-
-    Um Premium für einen Chat zu erhalten, nutze diesen Befehl direkt im Chat.
-    Nutze nach der Spende /refreshDonate, falls der Spender-Status nicht aktiviert wurde.
-
-donate-group = Premium für <u>den Chat</u>!
-
-    Für eine Spende ab 30 UAH erhältst du:
-    - Die Möglichkeit, den Gruppenhintergrund auf Nutzer-Statistiken anzuwenden
-    - Ein GIF als Hintergrund für das Gruppen-Statistik-Diagramm
-    - Änderung der Diagramm- und Schriftfarben in den Chat-Statistiken
-    - Keine Bot-Werbung
-    
-    Jedes Chat-Mitglied kann bezahlen.
-    Um Premium für deinen eigenen Account zu erhalten, nutze /donate im privaten Chat mit dem Bot.
-    Nutze nach der Spende /refreshDonate, falls der Spender-Status nicht aktiviert wurde.
+donate-group = Danke! Du siehst heute richtig gut aus 🫰🥰!
 
 error = Etwas ist schiefgelaufen.
 

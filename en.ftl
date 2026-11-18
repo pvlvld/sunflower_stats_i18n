@@ -52,24 +52,9 @@ help = 🌻Sunflower Statistics Bot.
 
     My channel: soniashnyk.t.me
 
-donate-private = <u>Personal</u> premium!
+donate-private = Thank you! You look really good today 🫰🥰!
 
-    For a donation of 15 UAH or more, you get:
-    - Set a GIF as your stats chart background
-    - Change chart and font colors in your stats
-
-    To get premium for a chat, use this command directly in the chat.
-
-donate-group = Premium for <u>the chat</u>!
-
-    For a donation of 30 UAH or more, you get:
-    - Ability to apply the group background to user stats charts
-    - Set a GIF as the group stats chart background
-    - Change chart and font colors in chat statistics
-    - No bot ads
-    
-    Any chat member can pay.
-    To get premium for your own account, use /donate in a private chat with the bot.
+donate-group = Thank you! You look really good today 🫰🥰!
 
 error = Something went wrong.
 

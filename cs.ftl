@@ -53,28 +53,9 @@ help = 🌻Bot statistik Slunečnice.
 
     Můj kanál: soniashnyk.t.me
 
-donate-private = <u>Osobní</u> premium!
+donate-private = Děkuji! Dnes vypadáš opravdu skvěle 🫰🥰!
 
-    Za příspěvek od 15 UAH získáte přístup k:
-    - Nastavení GIFu na pozadí statistik
-    - Změna barev grafu a písma vaší statistiky
-    - Nastavení vlastního emoji výzvy a data vztahu v @soniashnyk_bot
-    - Změna data začátku vztahu
-
-    Chcete-li získat premium pro chat, použijte tento příkaz přímo v něm.
-
-donate-group = Premium pro <u>chat</u>!
-
-    Za příspěvek od 30 UAH získáte přístup k:
-    - Možnost použít pozadí chatu pro statistiky uživatelů
-    - Nastavení GIFu na pozadí chatu
-    - Změna barev grafu a písma statistik chatu
-    - 10 vlastních příkazů v @soniashnyk_bot
-    - Hra "Krokodýl" v @soniashnyk_bot
-    - Absence reklamy od bota
-
-    Platbu může provést kterýkoli člen chatu.
-    Chcete-li získat premium pro vlastní účet, použijte příkaz /donate v dialogu s botem.
+donate-group = Děkuji! Dnes vypadáš opravdu skvěle 🫰🥰!
 
 error = Něco se pokazilo.
 

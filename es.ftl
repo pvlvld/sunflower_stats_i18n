@@ -51,28 +51,9 @@ Consulta las estadísticas y la actividad de tu chat:
 
 Mi canal: soniashnyk.t.me
 
-donate-private = ¡Premium Personal!
+donate-private = ¡Gracias! Hoy te ves muy bien 🫰🥰!
 
-Por una donación desde 15grn tendrás:
-- Poner GIFs de fondo
-- Cambiar colores de gráficos y fuentes de tus stats
-- Emoji personalizado y fecha de relación en @soniashnyk_bot
-- Cambiar fecha de inicio de relación
-
-Para obtener premium en un chat, usa este comando directamente allí.
-
-donate-group = ¡Premium para el chat!
-
-Por una donación desde 30grn tendrás:
-- Aplicar el fondo del chat a las estadísticas de todos
-- Poner GIFs de fondo del chat
-- Cambiar colores de gráficos y fuentes del chat
-- 10 comandos personalizados en @soniashnyk_bot
-- Juego «Cocodrilo» en @soniashnyk_bot
-- Sin publicidad del bot
-
-Cualquier miembro puede realizar el pago.
-Para premium personal, usa /donate en el chat privado con el bot.
+donate-group = ¡Gracias! Hoy te ves muy bien 🫰🥰!
 
 error = Algo salió mal.
 
